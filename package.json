@@ -1,0 +1,11 @@
+{
+  "name": "nestticket",
+  "version": "1.0.0",
+  "description": "Supoort ticket applcaitoin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Moein Samani",
+  "license": "MIT"
+}
